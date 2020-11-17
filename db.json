@@ -1,0 +1,40 @@
+{
+    "count": 3,
+    "total": 3,
+    "page": 1,
+    "results": [
+        {
+            "event1": [
+               {"event_starting_date": "2020-11-18"},
+                {"event_ending_date": "2020-11-25"},
+                {"event_starting_hour": "8:00"},
+                {"event_ending_hour": "12:00"}
+            ],
+            "user_name": "Marco Polo",
+            "user_id": 1239,
+            "type": "Permanence"
+        },
+        {
+            "event2": [
+                {"event_starting_date": "2020-11-18"},
+                {"event_ending_date": "2020-11-25"},
+                {"event_starting_hour": "8:00"},
+                {"event_ending_hour": "12:00"}
+            ],
+            "user_name": "Harry Cover",
+            "user_id": 1439,
+            "type": "Permanence"
+        },
+                {
+            "event3": [
+                {"event_starting_date": "2020-11-18"},
+                {"event_ending_date": "2020-11-25"},
+                {"event_starting_hour": "8:00"},
+                {"event_ending_hour": "12:00"}
+            ],
+            "user_name": "Pierre Paul",
+            "user_id": 1549,
+            "type": "Réunion"
+        }
+    ]
+}
