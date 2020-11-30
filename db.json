@@ -6,19 +6,19 @@
                 }
             ],
             "am_user": [{
-                "userName": "Mouss Quetaire",
+                "user_name": "Mouss Quetaire",
                 "user_id": 1239,
                 "event_starting_hour": "8:00",
                 "event_ending_hour": "12:00"
             }],
             "noon_user": [{
-                "userName": "Sarah Fraichi",
+                "user_name": "Sarah Fraichi",
                 "user_id": 1365,
                 "event_starting_hour": "12:00",
                 "event_ending_hour": "17:00"
             }],
             "pm_user": [{
-                "userName": "Léo Pard",
+                "user_name": "Léo Pard",
                 "user_id": 3459,
                 "event_starting_hour": "17:00",
                 "event_ending_hour": "20:00"
@@ -33,19 +33,19 @@
                 }
             ],
             "am_user": [{
-                "userName": "Maude Zarela",
+                "user_name": "Maude Zarela",
                 "user_id": 1254,
                 "event_starting_hour": "8:00",
                 "event_ending_hour": "11:00"
             }],
             "noon_user": [{
-                "userName": "Harry Cover",
+                "user_name": "Harry Cover",
                 "user_id": 1512,
                 "event_starting_hour": "11:00",
                 "event_ending_hour": "15:00"
             }],
             "pm_user": [{
-                "userrName": "Eddy Moitou",
+                "user_name": "Eddy Moitou",
                 "user_id": 6523,
                 "event_starting_hour": "15:00",
                 "event_ending_hour": "19:00"
@@ -60,19 +60,19 @@
                 }
             ],
             "am_user": [{
-                "userName": "",
+                "user_name": "",
                 "user_id": null,
                 "event_starting_hour": "",
                 "event_ending_hour": ""
             }],
             "noon_user": [{
-                "userName": "",
+                "user_name": "",
                 "user_id": null,
                 "event_starting_hour": "",
                 "event_ending_hour": ""
             }],
             "pm_user": [{
-                "userName": "Maude Zarela",
+                "user_name": "Maude Zarela",
                 "user_id": 1254,
                 "event_starting_hour": "19:00",
                 "event_ending_hour": "21:00"
@@ -87,19 +87,19 @@
                 }
             ],
             "am_user": [{
-                "userName": "Jacques Ouzi",
+                "user_name": "Jacques Ouzi",
                 "user_id": 1344,
                 "event_starting_hour": "9:00",
                 "event_ending_hour": "13:00"
             }],
             "noon_user": [{
-                "userName": "Gilbert Muda",
+                "user_name": "Gilbert Muda",
                 "user_id": 1452,
                 "event_starting_hour": "13:00",
                 "event_ending_hour": "18:00"
             }],
             "pm-user": [{
-                "pm_user": "Callie Fornie",
+                "user_name": "Callie Fornie",
                 "user_id": 6013,
                 "event_starting_hour": "18:00",
                 "event_ending_hour": "20:00"
