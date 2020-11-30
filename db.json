@@ -16,7 +16,7 @@
                 "user_id": 1365,
                 "event_starting_hour": "12:00",
                 "event_ending_hour": "17:00"
-            }],
+            },
             "pm_user": {
                 "user_name": "Léo Pard",
                 "user_id": 3459,
@@ -27,11 +27,11 @@
             "type": "Permanence"
         },
         {
-            "event_date": [{
+            "event_date": {
                     "event_starting_date": "2020-11-19",
                     "event_ending_date": "2020-11-19"
                 }
-            ],
+            ,
             "am_user": {
                 "user_name": "Maude Zarela",
                 "user_id": 1254,
