@@ -1,9 +1,9 @@
 {
     "events": [{
-            "event_date": {
+            "event_date": [{
                     "event_starting_date": "2020-11-18",
                     "event_ending_date": "2020-11-18"
-                }
+                }]
             ,
             "am_user": {
                 "user_name": "Mouss Quetaire",
@@ -27,10 +27,10 @@
             "type": "Permanence"
         },
         {
-            "event_date": {
+            "event_date": [{
                     "event_starting_date": "2020-11-19",
                     "event_ending_date": "2020-11-19"
-                }
+                }]
             ,
             "am_user": {
                 "user_name": "Maude Zarela",
@@ -54,10 +54,10 @@
             "type": "Permanence"
         },
         {
-            "event_date": {
+            "event_date": [{
                     "event_starting_date": "2020-11-20",
                     "event_ending_date": "2020-11-20"
-                }
+                }]
             ,
             "am_user": {
                 "user_name": "",
@@ -81,10 +81,10 @@
             "type": "Réunion"
         },
         {
-            "event_date": {
+            "event_date": [{
                     "event_starting_date": "2020-11-20",
                     "event_ending_date": "2020-11-20"
-                }
+                }]
             ,
             "am_user": {
                 "user_name": "Jacques Ouzi",
