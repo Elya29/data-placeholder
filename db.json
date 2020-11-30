@@ -1,28 +1,28 @@
 {
     "events": [{
-            "event_date": [{
+            "event_date": {
                     "event_starting_date": "2020-11-18",
                     "event_ending_date": "2020-11-18"
                 }
-            ],
-            "am_user": [{
+            ,
+            "am_user": {
                 "user_name": "Mouss Quetaire",
                 "user_id": 1239,
                 "event_starting_hour": "8:00",
                 "event_ending_hour": "12:00"
-            }],
-            "noon_user": [{
+            },
+            "noon_user": {
                 "user_name": "Sarah Fraichi",
                 "user_id": 1365,
                 "event_starting_hour": "12:00",
                 "event_ending_hour": "17:00"
             }],
-            "pm_user": [{
+            "pm_user": {
                 "user_name": "Léo Pard",
                 "user_id": 3459,
                 "event_starting_hour": "17:00",
                 "event_ending_hour": "20:00"
-            }],
+            },
             "event_id": 12359,
             "type": "Permanence"
         },
@@ -32,78 +32,78 @@
                     "event_ending_date": "2020-11-19"
                 }
             ],
-            "am_user": [{
+            "am_user": {
                 "user_name": "Maude Zarela",
                 "user_id": 1254,
                 "event_starting_hour": "8:00",
                 "event_ending_hour": "11:00"
-            }],
-            "noon_user": [{
+            },
+            "noon_user": {
                 "user_name": "Harry Cover",
                 "user_id": 1512,
                 "event_starting_hour": "11:00",
                 "event_ending_hour": "15:00"
-            }],
-            "pm_user": [{
+            },
+            "pm_user": {
                 "user_name": "Eddy Moitou",
                 "user_id": 6523,
                 "event_starting_hour": "15:00",
                 "event_ending_hour": "19:00"
-            }],
+            },
             "event_id": 12360,
             "type": "Permanence"
         },
         {
-            "event_date": [{
+            "event_date": {
                     "event_starting_date": "2020-11-20",
                     "event_ending_date": "2020-11-20"
                 }
-            ],
-            "am_user": [{
+            ,
+            "am_user": {
                 "user_name": "",
                 "user_id": null,
                 "event_starting_hour": "",
                 "event_ending_hour": ""
-            }],
-            "noon_user": [{
+            },
+            "noon_user": {
                 "user_name": "",
                 "user_id": null,
                 "event_starting_hour": "",
                 "event_ending_hour": ""
-            }],
-            "pm_user": [{
+            },
+            "pm_user": {
                 "user_name": "Maude Zarela",
                 "user_id": 1254,
                 "event_starting_hour": "19:00",
                 "event_ending_hour": "21:00"
-            }],
+            },
             "event_id": 12361,
             "type": "Réunion"
         },
         {
-            "event_date": [{
+            "event_date": {
                     "event_starting_date": "2020-11-20",
                     "event_ending_date": "2020-11-20"
                 }
-            ],
-            "am_user": [{
+            ,
+            "am_user": {
                 "user_name": "Jacques Ouzi",
                 "user_id": 1344,
                 "event_starting_hour": "9:00",
                 "event_ending_hour": "13:00"
-            }],
-            "noon_user": [{
+            },
+            "noon_user": {
                 "user_name": "Gilbert Muda",
                 "user_id": 1452,
                 "event_starting_hour": "13:00",
                 "event_ending_hour": "18:00"
-            }],
-            "pm-user": [{
+            },
+            "pm-user": {
                 "user_name": "Callie Fornie",
                 "user_id": 6013,
                 "event_starting_hour": "18:00",
                 "event_ending_hour": "20:00"
-            }],
+            },
             "event_id": 12362,
             "type": "Permanence"
         }
