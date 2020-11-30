@@ -1,306 +1,191 @@
 {
     "events": [{
             "event_date": [{
-                    "event_starting_date": "2020-11-18"
-                },
-                {
+                    "event_starting_date": "2020-11-18",
                     "event_ending_date": "2020-11-18"
-                },
-                {
-                    "event_starting_hour": "8:00"
-                },
-                {
-                    "event_ending_hour": "12:00"
                 }
             ],
-            "user_name": "Mouss Quetaire",
-            "user_id": 1239,
+            "users": [{
+                "am_user": "Mouss Quetaire",
+                "user_id": 1239,
+                "event_starting_hour": "8:00",
+                "event_ending_hour": "12:00"
+            },
+            {
+                "noon_user": "Sarah Fraichi",
+                "user_id": 1365,
+                "event_starting_hour": "12:00",
+                "event_ending_hour": "17:00"
+            },
+            {
+                "pm_user": "Léo Pard",
+                "user_id": 3459,
+                "event_starting_hour": "17:00",
+                "event_ending_hour": "20:00"
+            }],
             "event_id": 12359,
             "type": "Permanence"
         },
         {
             "event_date": [{
-                    "event_starting_date": "2020-11-18"
-                },
-                {
-                    "event_ending_date": "2020-11-18"
-                },
-                {
-                    "event_starting_hour": "12:00"
-                },
-                {
-                    "event_ending_hour": "16:00"
+                    "event_starting_date": "2020-11-19",
+                    "event_ending_date": "2020-11-19"
                 }
             ],
-            "user_name": "Sarah Fraichi",
-            "user_id": 2602,
+            "users": [{
+                "am_user": "Maude Zarela",
+                "user_id": 1254,
+                "event_starting_hour": "8:00",
+                "event_ending_hour": "11:00"
+            },
+            {
+                "noon_user": "Harry Cover",
+                "user_id": 1512,
+                "event_starting_hour": "11:00",
+                "event_ending_hour": "15:00"
+            },
+            {
+                "pm_user": "Eddy Moitou",
+                "user_id": 6523,
+                "event_starting_hour": "15:00",
+                "event_ending_hour": "19:00"
+            }],
             "event_id": 12360,
             "type": "Permanence"
         },
         {
             "event_date": [{
-                    "event_starting_date": "2020-11-18"
-                },
-                {
-                    "event_ending_date": "2020-11-18"
-                },
-                {
-                    "event_starting_hour": "16:00"
-                },
-                {
-                    "event_ending_hour": "20:00"
+                    "event_starting_date": "2020-11-20",
+                    "event_ending_date": "2020-11-20"
                 }
             ],
-            "user_name": "Léo Pard",
-            "user_id": 2562,
+            "users": [{
+                "am_user": "",
+                "user_id": null,
+                "event_starting_hour": "",
+                "event_ending_hour": ""
+            },
+            {
+                "noon_user": "",
+                "user_id": null,
+                "event_starting_hour": "",
+                "event_ending_hour": ""
+            },
+            {
+                "pm_user": "Maude Zarela",
+                "user_id": 1254,
+                "event_starting_hour": "19:00",
+                "event_ending_hour": "21:00"
+            }],
             "event_id": 12361,
-            "type": "Permanence"
+            "type": "Réunion"
         },
         {
             "event_date": [{
-                    "event_starting_date": "2020-11-19"
-                },
-                {
-                    "event_ending_date": "2020-11-19"
-                },
-                {
-                    "event_starting_hour": "8:00"
-                },
-                {
-                    "event_ending_hour": "14:00"
+                    "event_starting_date": "2020-11-20",
+                    "event_ending_date": "2020-11-20"
                 }
             ],
-            "user_name": "Harry Cover",
-            "user_id": 1439,
+            "users": [{
+                "am_user": "Jacques Ouzi",
+                "user_id": 1344,
+                "event_starting_hour": "9:00",
+                "event_ending_hour": "13:00"
+            },
+            {
+                "noon_user": "Gilbert Muda",
+                "user_id": 1452,
+                "event_starting_hour": "13:00",
+                "event_ending_hour": "18:00"
+            },
+            {
+                "pm_user": "Callie Fornie",
+                "user_id": 6013,
+                "event_starting_hour": "18:00",
+                "event_ending_hour": "20:00"
+            }],
             "event_id": 12362,
             "type": "Permanence"
         },
         {
             "event_date": [{
-                    "event_starting_date": "2020-11-19"
-                },
-                {
-                    "event_ending_date": "2020-11-19"
-                },
-                {
-                    "event_starting_hour": "14:00"
-                },
-                {
-                    "event_ending_hour": "20:00"
+                    "event_starting_date": "2020-11-21",
+                    "event_ending_date": "2020-11-21"
                 }
             ],
-            "user_name": "Maude Zarela",
-            "user_id": 1233,
+            "users": [{
+                "am_user": "Jean Profite",
+                "user_id": 5436,
+                "event_starting_hour": "8:00",
+                "event_ending_hour": "11:00"
+            },
+            {
+                "noon_user": "Paul Issier",
+                "user_id": 2345,
+                "event_starting_hour": "11:00",
+                "event_ending_hour": "16:00"
+            },
+            {
+                "pm_user": "Rémi fassol",
+                "user_id": 8245,
+                "event_starting_hour": "16:00",
+                "event_ending_hour": "20:00"
+            }],
             "event_id": 12363,
             "type": "Permanence"
         },
         {
             "event_date": [{
-                    "event_starting_date": "2020-11-25"
-                },
-                {
-                    "event_ending_date": ""
-                },
-                {
-                    "event_starting_hour": "19:00"
-                },
-                {
-                    "event_ending_hour": "21:00"
+                    "event_starting_date": "2020-11-22",
+                    "event_ending_date": "2020-11-22"
                 }
             ],
-            "user_name": "Pierre Paul",
-            "user_id": 1549,
+            "users": [{
+                "am_user": "Emmy Sphère",
+                "user_id": 1005,
+                "event_starting_hour": "8:00",
+                "event_ending_hour": "13:00"
+            },
+            {
+                "noon_user": "",
+                "user_id": null,
+                "event_starting_hour": "",
+                "event_ending_hour": ""
+            },
+            {
+                "pm_user": "",
+                "user_id": null,
+                "event_starting_hour": "",
+                "event_ending_hour": ""
+            }],
             "event_id": 12364,
-            "type": "Réunion"
+            "type": "Permanence"
         },
         {
             "event_date": [{
-                    "event_starting_date": "2020-11-20"
-                },
-                {
-                    "event_ending_date": "2020-11-20"
-                },
-                {
-                    "event_starting_hour": "8:00"
-                },
-                {
-                    "event_ending_hour": "12:00"
+                    "event_starting_date": "2020-11-23",
+                    "event_ending_date": "2020-11-23"
                 }
             ],
-            "user_name": "Marco Polo",
-            "user_id": 1654,
+            "users": [{
+                "am_user": "",
+                "user_id": null,
+                "event_starting_hour": "",
+                "event_ending_hour": ""
+            },
+            {
+                "noon_user": "",
+                "user_id": null,
+                "event_starting_hour": "",
+                "event_ending_hour": ""
+            },
+            {
+                "pm_user": "",
+                "user_id": null,
+                "event_starting_hour": "",
+                "event_ending_hour": ""
+            }],
             "event_id": 12365,
-            "type": "Permanence"
-        },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-20"
-                },
-                {
-                    "event_ending_date": "2020-11-20"
-                },
-                {
-                    "event_starting_hour": "12:00"
-                },
-                {
-                    "event_ending_hour": "16:00"
-                }
-            ],
-            "user_name": "Eddy Moitout",
-            "user_id": 6543,
-            "event_id": 12366,
-            "type": "Permanence"
-        },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-20"
-                },
-                {
-                    "event_ending_date": "2020-11-20"
-                },
-                {
-                    "event_starting_hour": "16:00"
-                },
-                {
-                    "event_ending_hour": "20:00"
-                }
-            ],
-            "user_name": "Gilbert Muda",
-            "user_id": 1134,
-            "event_id": 12367,
-            "type": "Permanence"
-        },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-21"
-                },
-                {
-                    "event_ending_date": "2020-11-21"
-                },
-                {
-                    "event_starting_hour": "8:00"
-                },
-                {
-                    "event_ending_hour": "14:00"
-                }
-            ],
-            "user_name": "Callie Fornie",
-            "user_id": 9889,
-            "event_id": 12368,
-            "type": "Permanence"
-        },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-21"
-                },
-                {
-                    "event_ending_date": "2020-11-21"
-                },
-                {
-                    "event_starting_hour": "14:00"
-                },
-                {
-                    "event_ending_hour": "20:00"
-                }
-            ],
-            "user_name": "Jim Nastique",
-            "user_id": 1098,
-            "event_id": 12369,
-            "type": "Permanence"
-        },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-22"
-                },
-                {
-                    "event_ending_date": "2020-11-22"
-                },
-                {
-                    "event_starting_hour": "8:00"
-                },
-                {
-                    "event_ending_hour": "11:00"
-                }
-            ],
-            "user_name": "Jacques Ouzi",
-            "user_id": 1045,
-            "event_id": 12370,
-            "type": "Permanence"
-        },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-22"
-                },
-                {
-                    "event_ending_date": "2020-11-22"
-                },
-                {
-                    "event_starting_hour": "11:00"
-                },
-                {
-                    "event_ending_hour": "18:00"
-                }
-            ],
-            "user_name": "Jean Profite",
-            "user_id": 1870,
-            "event_id": 12371,
-            "type": "Permanence"
-        },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-23"
-                },
-                {
-                    "event_ending_date": "2020-11-23"
-                },
-                {
-                    "event_starting_hour": "12:00"
-                },
-                {
-                    "event_ending_hour": "18:00"
-                }
-            ],
-            "user_name": "Paul Issier",
-            "user_id": 7654,
-            "event_id": 12372,
-            "type": "Permanence"
-        },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-23"
-                },
-                {
-                    "event_ending_date": "2020-11-23"
-                },
-                {
-                    "event_starting_hour": "18:00"
-                },
-                {
-                    "event_ending_hour": "21:00"
-                }
-            ],
-            "user_name": "Rémi Fasol",
-            "user_id": 1028,
-            "event_id": 12373,
-            "type": "Permanence"
-        },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-24"
-                },
-                {
-                    "event_ending_date": "2020-11-24"
-                },
-                {
-                    "event_starting_hour": "14:00"
-                },
-                {
-                    "event_ending_hour": "20:00"
-                }
-            ],
-            "user_name": "Emmy Sphère",
-            "user_id": 1453,
-            "event_id": 12374,
             "type": "Permanence"
         }
     ]
