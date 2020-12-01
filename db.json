@@ -1,8 +1,8 @@
 {
     "events": [{
             "event_date": [{
-                    "event_starting_date": "2020-11-18",
-                    "event_ending_date": "2020-11-18"
+                    "event_starting_date": "2020/11/18",
+                    "event_ending_date": "2020/11/18"
                 }
             ],
             "am_user": {
@@ -28,8 +28,8 @@
         },
         {
             "event_date": [{
-                    "event_starting_date": "2020-11-19",
-                    "event_ending_date": "2020-11-19"
+                    "event_starting_date": "2020/11/19",
+                    "event_ending_date": "2020/11/19"
                 }
             ],
             "am_user": {
@@ -55,8 +55,8 @@
         },
         {
             "event_date": [{
-                    "event_starting_date": "2020-11-20",
-                    "event_ending_date": "2020-11-20"
+                    "event_starting_date": "2020/11/20",
+                    "event_ending_date": "2020/11/20"
                 }
             ],
             "am_user": {
@@ -82,8 +82,8 @@
         },
         {
             "event_date": [{
-                    "event_starting_date": "2020-11-20",
-                    "event_ending_date": "2020-11-20"
+                    "event_starting_date": "2020/11/21",
+                    "event_ending_date": "2020/11/21"
                 }
             ],
             "am_user": {
