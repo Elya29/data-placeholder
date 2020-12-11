@@ -323,32 +323,5 @@
             "event_id": 12362,
             "type": "Permanence"
         },
-        {
-            "event_date": [{
-                    "event_starting_date": "2020-11-18",
-                    "event_ending_date": "2020-11-18"
-                }
-            ],
-            "am_user": [{
-                "userName": "Mouss Quetaire",
-                "user_id": 1239,
-                "event_starting_hour": "8:00",
-                "event_ending_hour": "12:00"
-            }],
-            "noon_user": [{
-                "userName": "Sarah Fraichi",
-                "user_id": 1365,
-                "event_starting_hour": "12:00",
-                "event_ending_hour": "17:00"
-            }],
-            "pm_user": [{
-                "userName": "Léo Pard",
-                "user_id": 3459,
-                "event_starting_hour": "17:00",
-                "event_ending_hour": "20:00"
-            }],
-            "event_id": 12359,
-            "type": "Permanence"
-        },
     ]
 }
