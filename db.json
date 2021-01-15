@@ -1,8 +1,8 @@
 {
     "events": [{
             "event_date": [{
-                    "event_starting_date": "8/12/2020",
-                    "event_ending_date": "8/12/2020"
+                    "event_starting_date": "15/01/2020",
+                    "event_ending_date": "15/01/2020"
                 }
             ],
             "am_user": {
