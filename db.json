@@ -1,8 +1,8 @@
 {
     "events": [{
             "event_date": [{
-                    "event_starting_date": "15/01/2021",
-                    "event_ending_date": "15/01/2021"
+                    "event_starting_date": "19/01/2021",
+                    "event_ending_date": "19/01/2021"
                 }
             ],
             "am_user": {
@@ -28,8 +28,8 @@
         },
         {
             "event_date": [{
-                    "event_starting_date": "12/01/2021",
-                    "event_ending_date": "12/01/2021"
+                    "event_starting_date": "20/01/2021",
+                    "event_ending_date": "20/01/2021"
                 }
             ],
             "am_user": {
@@ -47,21 +47,21 @@
             "pm_user": {
                 "user_name": "Eddy Moitou",
                 "user_id": 6523,
-                "event_starting_hour": "15:00",
-                "event_ending_hour": "19:00"
+                "event_starting_hour": "",
+                "event_ending_hour": ""
             },
             "event_id": 12360,
             "type": "Permanence"
         },
         {
             "event_date": [{
-                    "event_starting_date": "13/01/2021",
-                    "event_ending_date": "13/01/2021"
+                    "event_starting_date": "21/01/2021",
+                    "event_ending_date": "21/01/2021"
                 }
             ],
             "am_user": {
-                "user_name": "",
-                "user_id": null,
+                "user_name": "Pierre Paul",
+                "user_id": 6534,
                 "event_starting_hour": "",
                 "event_ending_hour": ""
             },
@@ -82,8 +82,8 @@
         },
         {
             "event_date": [{
-                    "event_starting_date": "17/01/2021",
-                    "event_ending_date": "17/01/2021"
+                    "event_starting_date": "22/01/2021",
+                    "event_ending_date": "22/01/2021"
                 }
             ],
             "am_user": {
